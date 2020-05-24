@@ -25,5 +25,5 @@
 # Projet Statistiques
 
   1. [Statistiques et python](https://github.com/AYLY92/Statistiques)
-    >
-    >> Statistiques appliquées au langage pyton
+      >
+      >> Statistiques appliquées au langage pyton
