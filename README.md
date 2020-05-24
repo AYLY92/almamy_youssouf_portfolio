@@ -4,7 +4,7 @@
       >
       >> L'idée du jeu, c'est qu'un mot secret est proposé au hasard et que l'utilisateur doit le deviner.
       >
-      >> ![](https://github.com/AYLY92/almamy_youssouf_portfolio/blob/master/images/pendu.png)
+      >> ![](/images/pendu.png)
       
   2. [Image Processing](https://github.com/AYLY92/Algorithmique-et-Complexite/tree/master/Semestre1/Projet%20Image%20Processing)
       >
