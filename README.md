@@ -8,8 +8,7 @@
   2. [Image Processing](https://github.com/AYLY92/Algorithmique-et-Complexite/tree/master/Semestre1/Projet%20Image%20Processing)
       
       Ce projet porte sur le traitement d'image.
-      ![](/images/mandrill.png)
-
+      
 # Projet Visualisation Interractives des Données
 
   1. [Visualisation des Données](https://github.com/AYLY92/Projet1-de-Visualisation-des-Donnees)
