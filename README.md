@@ -25,4 +25,4 @@
   1. [Statistiques et python](https://github.com/AYLY92/Statistiques)
       
      Statistiques appliquées au langage python
-     ![](/images/Densit%C3%A9%20de%20la%20Loi%20Normale.png)
+  
