@@ -4,6 +4,7 @@
   1. [Jeu du Pendu](https://github.com/AYLY92/Algorithmique-et-Complexite/tree/master/Semestre1/Projet-Hangman-master)
     
       L'idée du jeu, c'est qu'un mot secret est proposé au hasard et que l'utilisateur doit le deviner
+      
       ![](/images/pendu.png)
       
   2. [Image Processing](https://github.com/AYLY92/Algorithmique-et-Complexite/tree/master/Semestre1/Projet%20Image%20Processing)
@@ -25,5 +26,6 @@
   1. [Statistiques et python](https://github.com/AYLY92/Statistiques)
       
      Statistiques appliquées au langage python
+     
      ![](/images/Densit%C3%A9%20de%20la%20Loi%20Gamma.png)
   
