@@ -11,13 +11,13 @@
 
 # Projet Visualisation Interractives des Données
 
-  >## [Projet 1: Visualisation des Données](https://github.com/AYLY92/Projet1-de-Visualisation-des-Donnees)
+  1. [Visualisation des Données](https://github.com/AYLY92/Projet1-de-Visualisation-des-Donnees)
       Visualisation interactives des données
       
-  >## [Projet 2: Malaria Data visualization]( https://groupdataviz.github.io/Malaria_dataviz/)
+  2. [Malaria Data visualization]( https://groupdataviz.github.io/Malaria_dataviz/)
       Ce projet porte sur la visualisation du nombre de cas confirmés de Paludisme dans l'espace CEDEAO pour la durée allant de 2000 à      2012.
   
 # Projet Statistiques
 
-  >## [Projet 1: Statistiques et python](https://github.com/AYLY92/Statistiques)
+  1. [Statistiques et python](https://github.com/AYLY92/Statistiques)
       Statistiques appliquées au langage pyton
