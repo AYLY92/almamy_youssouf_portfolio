@@ -1,5 +1,3 @@
-# Almamy Youssef Portfolio
-
 # Projets Algorithme et Complexité
 
   1. [Jeu du Pendu](https://github.com/AYLY92/Algorithmique-et-Complexite/tree/master/Semestre1/Projet-Hangman-master)
