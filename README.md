@@ -1,4 +1,3 @@
-[Cliquez ici pour accédez à mon portfolio](https://ayly92.github.io/almamy_youssouf_portfolio/)
 
 # Projets Algorithme et Complexité
 
